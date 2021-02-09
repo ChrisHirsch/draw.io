@@ -7,4 +7,5 @@ I'm not associated with any of the companies I have icons for. Where possible, I
 Borrowed from ![Carlos Domingues](https://github.com/CarlosDomingues/hashicorp-draw.io) draw.io library for HashiCorp products. 
 
 Icons for: Packer, Terraform, Nomad, Vault, HashiCorp and Consul
-![HashiCorp](https://github.com/ChrisHirsch/draw.io/HashiCorp.xml)
+
+![HashiCorp](https://raw.githubusercontent.com/ChrisHirsch/draw.io/main/HashiCorpIcons.xml)
